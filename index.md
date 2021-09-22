@@ -23,10 +23,10 @@ layout: default
 <hr>
 
 
-<h2>Algoritmos de Búsqueda</h2>
+<h2>Programación En C </h2>
 
 <div align="center">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT80aoB0F1j-BIij97MMvrSJp8hiiM5BiR1LQ&usqp=CAU">
+<img src="https://global-uploads.webflow.com/5f5a53e153805db840dae2db/6073fbf151fa4565d48572dc_GitHub_aprender-programaci%25C3%25B3n.jpeg">
 </div>
 
 
