@@ -2,11 +2,11 @@
 layout: default
 ---
 
-<h1>Proyecto Final</h1>
+<h1>Programación CD-202</h1>
 
-<h2>Programación CD-2021</h2>
+<h2>Sistema Médico Veterinari</h2>
 
-<h3>Sistema Médico Veterinario</h3>
+<h3>Grupo 2</h3>
 
 
 <div align="center">
@@ -15,7 +15,7 @@ layout: default
 
 
 <ul>
-  <li><a href="https://github.com/Byrontosh/PrograCD/tree/burbuja" target="_blank">Burbuja</a></li>
+  <li><a href="https://github.com/Jth1193/PROYECTO-FINAL" target="_blank">Link Repo Github</a></li>
 </ul>
 
 
