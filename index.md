@@ -15,7 +15,7 @@ layout: default
 
 
 <ul>
-  <li><a href="https://github.com/Jth1193/PROYECTO-FINAL" target="_blank">Link Repo Github</a></li>
+  <li><a href="https://github.com/Jth1193/PROYECTO-FINAL/blob/master/main.c" target="_blank">main.c</a></li>
 </ul>
 
 
@@ -32,6 +32,6 @@ layout: default
 
 <ol>
 
-  <li><a href="https://github.com/Jth1193/PROYECTO-FINAL/blob/master/main.c">main.c</a></li>
+  <li><a href="https://github.com/Jth1193/PROYECTO-FINAL">Link Repo Github</a></li>
   
 </ol>
