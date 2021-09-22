@@ -4,7 +4,7 @@ layout: default
 
 <h1>Programación CD-2021</h1>
 
-<h2>Sistema Médico Veterinari</h2>
+<h2>Sistema Médico Veterinario</h2>
 
 <h3>Grupo 2</h3>
 
