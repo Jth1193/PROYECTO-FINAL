@@ -32,6 +32,6 @@ layout: default
 
 <ol>
 
-  <li><a href="https://github.com/Jth1193/PROYECTO-FINAL/blob/master/main.c">Proyecto Final main.c</a></li>
+  <li><a href="https://github.com/Jth1193/PROYECTO-FINAL/blob/master/main.c">main.c</a></li>
   
 </ol>
