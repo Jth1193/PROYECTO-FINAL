@@ -32,6 +32,6 @@ layout: default
 
 <ol>
 
-  <li><a href="https://github.com/Byrontosh/PrograCD/tree/lineal">Burbuja</a></li>
+  <li><a href="https://github.com/Jth1193/PROYECTO-FINAL">Proyecto Final</a></li>
   
 </ol>
